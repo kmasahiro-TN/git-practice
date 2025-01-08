@@ -1,2 +1,5 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+
+このリポジトリは Git 動画講座用です．
+
+localrepo で変更
